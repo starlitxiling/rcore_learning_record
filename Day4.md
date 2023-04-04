@@ -1,0 +1,5 @@
+- [x] 完成了primitive_types的rustlings
+- [x] 对rustlings的使用有了进一步的了解
+- [x] rust圣经读完了method
+- [x] rust编程之道看到了所有权
+- [x] 对前三天的各种问题进行了复盘
