@@ -1,0 +1,4 @@
+- [x] 开始看rust圣经，看到了流程控制。
+- [x] 开始看rust编程之道，看到了所有权。
+- [x] 记录疑惑在gitbook上，决定先全记录疑惑，后面有时间了再来做知识整理。
+- [x] 完成了function、variables、if的rustlings
